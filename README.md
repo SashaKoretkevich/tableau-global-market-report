@@ -39,7 +39,6 @@
 
 ```
 workbooks/
-  global-market.twb          рабочая книга Tableau
   global-market-final.twb    финальная версия
 report/
   report.pdf                 аналитический отчёт (9 страниц)
